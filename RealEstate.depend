@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1642086368 source:c:\users\ben_q\onedrive\dokumente\oth\1. semester\agk\projekt\programmdatensatz\realestate\main.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	"gauss.h"
+
+1641917837 c:\users\ben_q\onedrive\dokumente\oth\1. semester\agk\projekt\programmdatensatz\realestate\gauss.h
+
